@@ -1,4 +1,4 @@
-# Rails Blog hdkjfakjsdfj
+# Rails Blog
 
 ## Instructions
 
